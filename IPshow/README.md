@@ -19,6 +19,10 @@ To use this script, simply run it in your terminal:
     Output upon running this script:
         ip: [device_ip_address]
     ```
+### CLONING
+```
+    sh: git clone https://tkemaz/IPshow.git
+```
 
 ### How it Works
 ------------
