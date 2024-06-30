@@ -17,17 +17,18 @@ To clone this repostory, simply write this into your terminal:
 
 # USAGE
 
-~ After cloning repostory, go to the `IPshow directory` (`cd IPshow`) and type
+~ After cloning repostory, go to the `IPshow directory` (`cd IPshow`) and type:
 
-1. Using `Python3`:
+Using `Python`:
 
     python3 ip.py
-
-2. Using `Shell`:
+    
+Or using `Shell`:
 
     chmod +x ip.sh 
     bash ip.sh
     
+---------
 # OUTPUT
  
 ~ The script will output the IP address of the machine, or `127.0.0.1` if no IP address is found.
