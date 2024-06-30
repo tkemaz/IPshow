@@ -6,7 +6,7 @@
 
 ~ `Python3`
 
-~ `git`
+~ `Git`
 
 -------
 # CLONING
