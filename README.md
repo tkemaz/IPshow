@@ -11,7 +11,7 @@
 -------
 # CLONING
 
-To clone this repostory, simply write this into your terminal:
+To clone this repository, simply write this into your terminal:
 
     git clone https://github.com/tkemza/IPshow.git
 
