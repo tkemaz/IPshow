@@ -17,7 +17,7 @@ To clone this repostory, simply write this into your terminal:
 
 # USAGE
 
-~ After cloning repostory, go to the `IPshow directory` (`cd IPshow`) and type:
+~ After cloning repostory, go to the `IPshow directory` (`cd IPshow`) and type
 
 1. Using `Python3`:
 
